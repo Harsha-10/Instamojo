@@ -1,0 +1,176 @@
+#title{
+    background-color:#2B2B81;
+    color: white;
+}
+.navbar-brand{
+    font-family: Ubuntu;
+    font-size:40px;
+    font-weight: bold;
+}
+.nav-item{
+    padding: 0 18px;
+}
+.nav-link{
+    font-size: 1.2rem;
+    font-family: montserrat;
+    font-weight: light;
+}
+.navbar{
+    padding:0 0 4.5em;
+}
+.download-buttons{
+    margin:5% 3% 5% 0;
+}
+
+/* Headings */
+body{
+    font-family: Montserrat;
+}
+h1{
+    font-family:"Montserrat",sans-serif;
+    font-size: 3.2rem;
+    line-height: 1.5;
+    font-weight: 900;
+}
+h2{
+    font-family: Montserrat;
+    font-weight: bold;
+    color: #fff;
+    font-size: 2.8rem;
+}
+h3{
+    font-family: Montserrat;
+    font-weight: 900;
+    font: size 1.5rem;
+    padding:4%;
+}
+p{
+    padding: 0 8%;
+    color:#8f8f8f;
+}
+.container-fluid{
+    padding: 0% 3%;
+    position:relative;
+    height: 95vh
+}
+.logo{
+    color: #2B2B81;
+}
+.logo:hover{
+    color: #2B2B81;
+}
+#features{
+    padding: 7% 15%;
+    position:relative;
+    background-color: white;
+}
+.feature-box{
+    text-align: center;
+}
+#testimonials{
+    text-align: center;
+    background-color: #2B2B81;
+}
+.testimonial-image{
+    width: 70%;
+    margin: 10px;
+}
+#press{
+    background-color:#2B2B81;
+    text-align: center;
+}
+.press-logo{
+    width:15%;
+    margin: 20px 20px 50px;
+}
+.carousel-item{
+    padding:7% 15%;
+}
+.pricing-h2{
+    color: black;
+}
+.pricing-p{
+    padding: 0%;
+}
+#pricing{
+    padding:100px;
+    text-align: center;
+}
+.pricing-column{
+    padding:3% 2%;
+}
+.pricing-h2-card{
+    color: black;
+}
+@media (max-width:990px){
+    #title{
+        text-align:center;
+    }
+    .title-image{
+        transform: rotate(0);
+        position:static;
+        margin-right: 50px;
+    }
+}
+#cta{
+    background-color:#2B2B81;
+    text-align: center;
+}
+.cta-h3{
+    color:#fff;
+    padding: 4% 28% 0 28%;
+}
+.cta-button{
+    padding-bottom:5%;
+}
+.cta-btn1{
+    margin-right: 2%;
+}
+#footer{
+    background-color:#fff;
+    text-align: center;
+    padding: 4% 0;
+}
+.footer-logo{
+    padding-right: 10px;
+}
+.footer-logo-set{
+    padding: 10px 10px;
+    padding-bottom: 15px;
+}
+.navimage{
+    width: 20%;
+    margin: 15px;
+    padding-right: 30px;
+}
+.head{
+    text-align: center
+}
+h1 .h1color{
+    color:#F3B229;
+    font: size 3rem;
+}
+.sub{
+    font-weight: 300;
+    font: size 1.5rem;
+    padding:1% 20%;
+}
+.toptitle{
+    padding:0% 25% ;
+    font-size:3.3rem;
+}
+.card-header{
+    background-color:#2B2B81;
+    color: white;
+    font-weight: 100;
+}
+.mojo{
+    background-color: #2B2B81;
+    margin: 0% 0% 0% 0%;
+    padding: 0% 0% 0% 0%;
+    padding-left: 260px;
+    padding-right: 20px;
+}
+.a{
+    font-weight:200;
+}
