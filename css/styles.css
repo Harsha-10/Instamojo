@@ -174,3 +174,8 @@ h1 .h1color{
 .a{
     font-weight:200;
 }
+
+.footer-logo-set i:hover {
+    cursor: pointer;
+    transform: scale(1.55);
+}
